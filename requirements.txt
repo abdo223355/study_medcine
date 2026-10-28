@@ -1,0 +1,7 @@
+# Lean set for Streamlit Community Cloud: Summary + Quiz (set ENABLE_ASK=false in Secrets).
+# Pin chromadb to the version that built db/chroma (run: pip show chromadb) -- see the note in the chat.
+chromadb
+openai
+python-dotenv
+streamlit
+pysqlite3-binary

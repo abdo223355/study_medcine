@@ -1,0 +1,8 @@
+.env
+data/
+results*.txt
+__pycache__/
+*.bat
+compare_embeddings.py
+test_*.py
+env.example.txt

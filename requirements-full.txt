@@ -1,0 +1,7 @@
+# Everything: PDF ingestion, embeddings, Ask tab (local use / bigger host).
+pymupdf
+chromadb
+sentence-transformers
+openai
+python-dotenv
+streamlit

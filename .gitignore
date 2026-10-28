@@ -1,0 +1,7 @@
+.env
+data/
+results*.txt
+__pycache__/
+*.pyc
+env.example.txt
+*.bat
